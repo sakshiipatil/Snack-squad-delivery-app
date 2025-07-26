@@ -24,7 +24,7 @@ Snack Squad is a mobile application designed to provide a seamless and customiza
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/snack-squad.git
+   git clone https://github.com/sakshiipatil/Snack-squad-delivery-app.git
    ```
 2. Open the project in Android Studio.
 3. Ensure the required dependencies (e.g., Jetpack Compose, Material Design components) are included in the `build.gradle` file.
@@ -70,6 +70,3 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-For questions or feedback, please contact the Snack Squad team at support@snacksquad.com.
